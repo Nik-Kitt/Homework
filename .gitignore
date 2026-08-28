@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.vscode/
+Mentor
+service.py
+tests.py
